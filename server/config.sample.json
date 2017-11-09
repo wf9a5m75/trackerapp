@@ -1,0 +1,12 @@
+{
+  "firestore": {
+    "credential": "./lametro-tracking-app-firebase-adminsdk-oryo9-e9954870a6.json",
+    "databaseURL": "https://lametro-tracking-app.firebaseio.com"
+  },
+  "metro": {
+    "agencyId": "lametro",
+    "routeIds": [
+      "950"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "firestore": {
+    "credential": "(YOUR_CREDENTIAL_OF_CLOUD_FIRESTORE.json)",
+    "databaseURL": "(YOUR_PROJECT_DATABASE_URL)",
+  },
+  "metro": {
+    "agencyId": "(lametro or lametro-rail)"
+  }
+}

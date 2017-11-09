@@ -1,5 +1,5 @@
 {
-  "name": "la_metro_fetch",
+  "name": "traccking_app_server",
   "dependencies": {
     "cron": "^1.3.0",
     "firebase": "^4.6.0",
